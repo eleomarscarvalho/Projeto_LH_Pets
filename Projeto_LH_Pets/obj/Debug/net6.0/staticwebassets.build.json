@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "4lEhUZ8a8oyHvAlnoC7YAP/6yrn/2AwEzEx+BvR74yc=",
+  "Source": "Projeto LH Pets",
+  "BasePath": "_content/Projeto LH Pets",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto LH Pets\\wwwroot",
+      "Source": "Projeto LH Pets",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Atividade\\Projeto LH Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto LH Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Atividade\\Projeto LH Pets\\wwwroot\\index.html",
+      "SourceId": "Projeto LH Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Atividade\\Projeto LH Pets\\wwwroot\\",
+      "BasePath": "_content/Projeto LH Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
